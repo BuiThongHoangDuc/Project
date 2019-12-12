@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Java/PetShop_Home/src/java/hoangduc/daos/BillDAO.java</file>
+            <file>file:/D:/Java/PetShop_Home/src/java/hoangduc/controller/AddProductController.java</file>
+            <file>file:/D:/Java/PetShop_Home/src/java/hoangduc/daos/EnduserDAO.java</file>
+            <file>file:/D:/Java/PetShop_Home/src/java/hoangduc/controller/MainController.java</file>
+            <file>file:/D:/Java/PetShop_Home/src/java/hoangduc/daos/BillItemsDAO.java</file>
+            <file>file:/D:/Java/PetShop_Home/src/java/hoangduc/dtos/EnduserDTO.java</file>
+            <file>file:/D:/Java/PetShop_Home/src/java/hoangduc/controller/LoginController.java</file>
+            <file>file:/D:/Java/PetShop_Home/web/index.jsp</file>
+            <file>file:/D:/Java/PetShop_Home/src/java/hoangduc/dtos/BillDTO.java</file>
+            <file>file:/D:/Java/PetShop_Home/src/java/hoangduc/controller/EditProductController.java</file>
+            <file>file:/D:/Java/PetShop_Home/src/java/hoangduc/dtos/BillItemsDTO.java</file>
+        </group>
+    </open-files>
+</project-private>
